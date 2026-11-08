@@ -1,0 +1,7 @@
+OverTime,Department,headcount,attrition_pct,rank_in_group
+No,Human Resources,46,15.2,1
+No,Sales,318,13.8,2
+No,Research & Development,690,8.6,3
+Yes,Sales,128,37.5,1
+Yes,Human Resources,17,29.4,2
+Yes,Research & Development,271,27.3,3

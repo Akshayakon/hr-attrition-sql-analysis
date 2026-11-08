@@ -1,0 +1,10 @@
+JobRole,headcount,leavers,attrition_pct,vs_company_avg
+Sales Representative,83,33,39.8,23.6
+Laboratory Technician,259,62,23.9,7.8
+Human Resources,52,12,23.1,7.0
+Sales Executive,326,57,17.5,1.4
+Research Scientist,292,47,16.1,-0.0
+Manufacturing Director,145,10,6.9,-9.2
+Healthcare Representative,131,9,6.9,-9.3
+Manager,102,5,4.9,-11.2
+Research Director,80,2,2.5,-13.6

@@ -1,0 +1,4 @@
+output/hr.db
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,5 @@
+salary_band,min_income,max_income,headcount,leavers,attrition_pct
+Q1 (lowest pay),1009,2911,368,108,29.3
+Q2,2911,4930,368,52,14.1
+Q3,4936,8380,367,39,10.6
+Q4 (highest pay),8381,19999,367,38,10.4
